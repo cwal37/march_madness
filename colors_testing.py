@@ -85,7 +85,7 @@ plt.plot(x,m, linewidth = 8, linestyle = '--', color = "#00204E")
 plt.plot(x,z, linewidth = 8, linestyle = '-', color = "#00539C")
 
 
-plt.savefig('test.png', dpi = 600)
+plt.show()#('test.png', dpi = 600)
 
 
     
